@@ -1,0 +1,22 @@
+.ht1 {
+    background-color: #BB86FC;
+} 
+
+.ht2 {
+    background-color: #00C4B4;
+}
+
+.tableRow {
+    background-color: #424250;
+    
+}
+
+table {
+    color: aliceblue;
+    
+}
+
+*{
+    padding: 10px;
+    margin: 0px;
+}
